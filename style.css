@@ -1,0 +1,296 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+#texto {
+  position: absolute;
+  width: 817px;
+  height: 224px;
+  left: 515px;
+  top: 433px;
+
+  font-family: Mukta;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 70px;
+  line-height: 116px;
+  text-align: center;
+  color: #cfcab5;
+}
+
+.texto1 {
+  position: absolute;
+  width: 270px;
+  height: 35px;
+  left: 95px;
+  top: 107px;
+
+  font-family: Mukta;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 42px;
+
+  color: #ffffff;
+}
+
+.texto2 {
+  position: absolute;
+  width: 96px;
+  height: 35px;
+  left: 672px;
+  top: 107px;
+
+  font-family: Mukta;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 42px;
+
+  color: #ffffff;
+}
+
+.texto3 {
+  position: absolute;
+  width: 183px;
+  height: 35px;
+  left: 1149px;
+  top: 107px;
+
+  font-family: Mukta;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 42px;
+
+  color: #ffffff;
+}
+
+.linea1 {
+  display: flex;
+  flex-direction: row;
+  }
+  .ahorra {
+  position: absolute;
+  width: 293px;
+  height: 295px;
+  left: 49px;
+  top: 1135px;
+
+  background: url(35de3ba0-0aed-4023-a515-8e7ae86c1c04_16-9-aspect-ratio_default_0.jpg);
+  border-radius: 165px;
+}
+.dinero {
+  position: absolute;
+  width: 287px;
+  height: 295px;
+  left: 397px;
+  top: 1135px;
+
+  background: url(papelmatic-higiene-profesional-microbios-en-el-dinero-1200x900.jpg);
+  border-radius: 140.5px;
+}
+.hidratate {
+  position: absolute;
+  width: 293px;
+  height: 295px;
+  left: 739px;
+  top: 1135px;
+
+  background: url(vaso-con-agua-.jpg);
+  border-radius: 214.5px;
+}
+.agradece {
+  position: absolute;
+  width: 295px;
+  height: 295px;
+  left: 1090px;
+  top: 1135px;
+
+  background: url(Frases-de-agradecimiento.jpg);
+  border-radius: 141.5px;
+}
+
+.TextosCentrados {
+  text-align: center;
+  font-weight: bolder;
+}
+
+.textoahorra {
+  position: absolute;
+  width: 293px;
+  height: 32px;
+  left: 49px;
+  top: 1446px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.textoinversiones {
+  position: absolute;
+  width: 293px;
+  height: 72px;
+  left: 397px;
+  top: 1446px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.textohidrata {
+  position: absolute;
+  width: 234px;
+  height: 72px;
+  left: 769px;
+  top: 1446px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.textoagradece {
+  position: absolute;
+  width: 293px;
+  height: 72px;
+  left: 1094px;
+  top: 1446px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.textotalentos {
+  position: absolute;
+  width: 293px;
+  height: 82px;
+  left: 49px;
+  top: 1900px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.textometas {
+  position: absolute;
+  width: 224px;
+  height: 82px;
+  left: 432px;
+  top: 1900px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.textoejercicio {
+  position: absolute;
+  width: 293px;
+  height: 82px;
+  left: 746px;
+  top: 1900px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.textovegetales {
+  position: absolute;
+  width: 257px;
+  height: 82px;
+  left: 1112px;
+  top: 1900px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.talentos{
+    position: absolute;
+    width: 293px;
+    height: 287px;
+    left: 45px;
+    top: 1582px;
+    
+    background: url(Depositphotos_10555347_l-562x407.jpg);
+    border-radius: 156px;
+}
+.metas{
+    position: absolute;
+    width: 336px;
+    height: 336px;
+    left: 388px;
+    top: 1557px;
+      
+}
+.ejercicio{
+    position: absolute;
+    width: 274px;
+    height: 308px;
+    left: 749px;
+    top: 1582px;
+    
+    background: url(depositphotos_275374148-stock-photo-people-sport-and-fitness-concept.jpg);
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 137.5px;
+}
+.vegetales{
+    position: absolute;
+    width: 301px;
+    height: 295px;
+    left: 1084px;
+    top: 1582px;    
+}
+
+.CentrarEsteTexto{
+    text-align: center;
+    font-weight: bolder;
+}
